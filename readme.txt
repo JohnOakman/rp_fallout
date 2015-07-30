@@ -1,0 +1,1 @@
+put the folder "rp_fallout" in your "garrysmod/garrysmod/addons/" folder
